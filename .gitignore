@@ -1,0 +1,10 @@
+*.csv
+*.geojson
+*.pdf
+*.txt
+day3_polygons_catrare/CatRaRE_2001_2022_W3_Eta_v2023_01.gdb
+day3_polygons_catrare/radolan
+nuts5000_12-31.gk3.shape
+Ideen
+*.asc
+*.nc
