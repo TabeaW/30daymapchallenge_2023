@@ -8,3 +8,6 @@ Day 2: Lines
 
 Day 3: Polygons
 ![Polygons](day3_polygons_catrare/catrare_darmstadt.png)
+
+Day 4: A Bad Map
+![A bad map](day4_badmap_bad_days/bad.png)
