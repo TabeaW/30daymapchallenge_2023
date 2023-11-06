@@ -11,3 +11,10 @@ Day 3: Polygons
 
 Day 4: A Bad Map
 ![A bad map](day4_badmap_bad_days/bad.png)
+
+Day 5: Analog
+Maybe later
+
+Day 6: Asia
+![Asia with shading](day6_asia_fulldata/asia_shading.png)
+![Asia without shading](day6_asia_fulldata/asia_noshading.png)
