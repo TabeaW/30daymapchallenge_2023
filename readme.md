@@ -18,3 +18,6 @@ Maybe later
 Day 6: Asia
 ![Asia with shading](day6_asia_fulldata/asia_shading.png)
 ![Asia without shading](day6_asia_fulldata/asia_noshading.png)
+
+Day 8: Africa
+![Africa](day8_africa_duerre/africa.png)
