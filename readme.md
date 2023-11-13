@@ -21,3 +21,9 @@ Day 6: Asia
 
 Day 8: Africa
 ![Africa](day8_africa_duerre/africa.png)
+
+Day 9: Hexagons
+![Hexagons](day9_hexagons_warnwetter/hexagons.png)
+
+Day 13: Choropleth
+![Choropleth](day13_choropleth_heat_warnings/heat_warnings.gif)
