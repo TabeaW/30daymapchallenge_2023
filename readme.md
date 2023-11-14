@@ -27,3 +27,6 @@ Day 9: Hexagons
 
 Day 13: Choropleth
 ![Choropleth](day13_choropleth_heat_warnings/heat_warnings.gif)
+
+Day 14: Europe
+![Europe](day14_europe/europe.png)
