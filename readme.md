@@ -30,3 +30,6 @@ Day 13: Choropleth
 
 Day 14: Europe
 ![Europe](day14_europe/europe.png)
+
+Day 15: Openstreetmap
+![Openstreetmap](day15_openstreetmap/openstreetmap.png)
