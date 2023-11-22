@@ -36,3 +36,9 @@ Day 15: Openstreetmap
 
 Day 17: Flow
 ![Flow](day17_flow/radiosondes_final.png)
+
+Day 18: Atmosphere
+![Atmosphere](day18_atmosphere/atmosphere.png)
+
+Day 21:Raster
+![Raster](day21_raster/precipitation.gif)
