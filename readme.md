@@ -41,4 +41,7 @@ Day 18: Atmosphere
 ![Atmosphere](day18_atmosphere/atmosphere.png)
 
 Day 21:Raster
-![Raster](day21_raster/precipitation.gif)
+![Raster](day21_raster/precipitation_ry.gif)
+
+Day 23: 3D
+![3D](day23_3d/3d.png)
