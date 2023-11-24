@@ -45,3 +45,6 @@ Day 21:Raster
 
 Day 23: 3D
 ![3D](day23_3d/3d.png)
+
+Day 24: Black & White
+![Black & White](day24_black_and_white_snow/white_christmas_black_white.png)
