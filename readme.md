@@ -48,3 +48,6 @@ Day 23: 3D
 
 Day 24: Black & White
 ![Black & White](day24_black_and_white_snow/white_christmas_black_white.png)
+
+Day27: Dots
+![Dots](day27_dots/dots_final.png)
