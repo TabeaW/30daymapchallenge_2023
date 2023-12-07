@@ -51,3 +51,6 @@ Day 24: Black & White
 
 Day27: Dots
 ![Dots](day27_dots/dots_final.png)
+
+Day30: My favourite
+![Favourite](day30_favourite/all_radars_crop.png)
